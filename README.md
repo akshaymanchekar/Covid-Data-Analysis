@@ -77,19 +77,11 @@ Detailed table showcasing key statistics:
 ---
 
 ## 📸 Dashboard Snapshots
-![Dashboard Overview](images/covid_overview.png)
-*High-Level Overview Page*
-
-![Detailed Summary Table](images/covid_summary_table.png)
-*Summary Table Page*
 
 ---
 
 ## 🌐 Connect With Me
-📧 Email: [akshay.manchekar2002@gmail.com](mailto:akshay.manchekar2002@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshay_Manchekar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akshaymanchekar)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Akshay_Manchekar-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/akshaymanchekar)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Akshay_Manchekar-brightgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/akshay_mancheka1)  
+
 
 ---
 
