@@ -77,6 +77,8 @@ Detailed table showcasing key statistics:
 ---
 
 ## 📸 Dashboard Snapshots
+![Covid Data Analysis_SS_F1](https://github.com/user-attachments/assets/cf68c347-0f52-47e2-93bb-bd081c2d016e)
+![Covid Data Analysis_SS_F2](https://github.com/user-attachments/assets/0251410f-34e0-477e-b6c9-6ab3ca880fd3)
 
 
 
