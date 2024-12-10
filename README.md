@@ -1,5 +1,6 @@
 # 🌍 Covid Data Analysis Dashboard 🦠
 
+![Covid Data Analysis Cover Photo_1](https://github.com/user-attachments/assets/ce316fb3-11ce-4c6d-94aa-8fdc3babb441)
 
 
 ## 📊 Overview
