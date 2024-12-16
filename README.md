@@ -6,7 +6,7 @@
 ## 📊 Overview
 The **Covid Data Analysis Dashboard** provides comprehensive insights into the global impact of the Covid-19 pandemic from **January 1, 2020, to January 1, 2021**. Using interactive visualizations, it highlights key metrics such as total cases, recoveries, deaths, and daily trends across the world.
 
----
+<br>
 
 ## 🗂️ Data Overview
 This project uses **1 table** with **93,766 rows** containing the following information:
@@ -27,7 +27,7 @@ This project uses **1 table** with **93,766 rows** containing the following info
 - ✅ **Recovery Rate**: Calculated dynamically.
 - ⚠️ **Mortality Rate**: Calculated dynamically.
 
----
+<br>
 
 ## 🖼️ Dashboard Pages and Features
 
@@ -60,14 +60,14 @@ Detailed table showcasing key statistics:
   - Recovered Cases.
   - Deaths.
 
----
+<br>
 
 ## 🛠️ Tools and Technologies
 - **Power BI**: For creating interactive and visually rich dashboards.
 - **SQL**: Data preprocessing and querying.
 - **Excel**: Data preparation and cleaning.
 
----
+<br>
 
 ## 💡 Key Insights
 - 🌎 Global spread visualized with a heatmap for clear regional insights.
@@ -75,7 +75,7 @@ Detailed table showcasing key statistics:
 - 📊 Comparison of recovery and mortality rates across regions and timeframes.
 - ⚙️ Interactive filters allow for deep dives into specific time periods or locations.
 
----
+<br>
 
 ## 📸 Dashboard Snapshots
 ![Covid Data Analysis_SS_F1](https://github.com/user-attachments/assets/cf68c347-0f52-47e2-93bb-bd081c2d016e)
